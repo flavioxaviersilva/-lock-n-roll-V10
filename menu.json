@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "title": "Aplicativos",
+        "imageLink": "aplicativos.png"            
+    },
+    {
+        "id": 2,
+        "title": "Atividades",
+        "imageLink": "foco.png" 
+    },
+    {
+        "id": 3,
+        "title": "Controle de Foco",
+        "imageLink": "foco.png" 
+    },
+    {
+        "id": 4,
+        "title": "Dependentes",
+        "imageLink": "foco.png"
+    }
+    
+   
+]
